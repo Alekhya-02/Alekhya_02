@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ramya Sri Sanaboina</h1>
-<h3 align="center">An enthusiastic learner who want to excel in the field of computers</h3>
+<h1 align="center">Hi 👋, I'm Alekhya Naidu</h1>
+<h3 align="center">An ambitious and an enthusiastic Individual who is excited to work as a developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya1301&label=Profile%20views&color=0e75b6&style=flat" alt="ramya1301" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alekhya_02&label=Profile%20views&color=0e75b6&style=flat" alt="alekhya_02" /> </p>
 
 - 🌱 I’m currently learning *React Frame Work and Front End development*
 
-- 📫 How to reach me **20a9a05b6@aec.edu.in**
+- 📫 How to reach me **20a9a05b0@aec.edu.in**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFZI5NtjEQ/t2pGrJ3jkAPWlgTbwHknqQ/edit?utm_content=DAFZI5NtjEQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFZI5NtjEQ/t2pGrJ3jkAPWlgTbwHknqQ/edit?utm_content=DAFZI5NtjEQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
